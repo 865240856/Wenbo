@@ -1,0 +1,29 @@
+{
+  "balances": [
+    {
+      "currency": "BTC",
+      "balance": 0.25,
+      "valueUSD": 12000.00
+    },
+    {
+      "currency": "ETH",
+      "balance": 1.5,
+      "valueUSD": 5250.00
+    },
+    {
+      "currency": "XRP",
+      "balance": 1500.00,
+      "valueUSD": 1200.00
+    },
+    {
+      "currency": "LTC",
+      "balance": 5.0,
+      "valueUSD": 750.00
+    },
+    {
+      "currency": "ADA",
+      "balance": 1200.00,
+      "valueUSD": 900.00
+    }
+  ]
+}

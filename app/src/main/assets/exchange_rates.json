@@ -1,0 +1,29 @@
+{
+  "rates": [
+    {
+      "from": "BTC",
+      "to": "USD",
+      "rate": 48000.00
+    },
+    {
+      "from": "ETH",
+      "to": "USD",
+      "rate": 3500.00
+    },
+    {
+      "from": "BTC",
+      "to": "ETH",
+      "rate": 0.073
+    },
+    {
+      "from": "ETH",
+      "to": "BTC",
+      "rate": 13.69
+    },
+    {
+      "from": "USD",
+      "to": "BTC",
+      "rate": 0.00002083
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "currencies": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "bitcoin.png"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "ethereum.png"
+    },
+    {
+      "id": "ripple",
+      "name": "Ripple",
+      "symbol": "XRP",
+      "image": "ripple.png"
+    },
+    {
+      "id": "litecoin",
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "image": "litecoin.png"
+    },
+    {
+      "id": "cardano",
+      "name": "Cardano",
+      "symbol": "ADA",
+      "image": "cardano.png"
+    }
+  ]
+}
